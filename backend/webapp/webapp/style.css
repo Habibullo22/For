@@ -1,0 +1,17 @@
+body {
+  background:#0f1220;
+  color:white;
+  font-family:sans-serif;
+  text-align:center;
+}
+
+button {
+  padding:12px;
+  margin:8px;
+  width:80%;
+  border-radius:10px;
+  border:none;
+  background:#5b5cff;
+  color:white;
+  font-size:16px;
+}
